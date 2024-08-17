@@ -1,5 +1,5 @@
 .data
-str1: .string "s1113356\n" ###顯示學號字串
+#str1: .string "s1111111\n" ###顯示學號字串
 m: .string "input number M=" ###提示輸入M的字串
 n: .string "input number N=" ###提示輸入N的字串
 p_result: .string "P(M,N)=" ###P(M,N)結果的前綴字串
@@ -10,9 +10,9 @@ mn_result: .string "M^N=" ###M^N結果的前綴字串
 .text
 main:
     ### Display sID
-    la a0, str1 ###加載str1的地址到a0
-    li a7, 4 ###載入系統調用碼4(打印字串)
-    ecall ###執行系統調用
+    #la a0, str1 ###加載str1的地址到a0
+    #li a7, 4 ###載入系統調用碼4(打印字串)
+    #ecall ###執行系統調用
 
     ###input m
     la a0, m ###加載m的地址到a0
