@@ -4,7 +4,7 @@
 
 ### Important Links
 
- - [RARS](https://github.com/TheThirdOne/rars)
+ - [RARS](./Resources/rars_27a7c1f.jar)
  - [Syllabus](./Resources/alod+syllabus+20240408_linyu.pdf)
 
 ## Hw 1 Combination and Permutation
