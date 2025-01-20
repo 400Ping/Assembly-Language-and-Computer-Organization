@@ -5,7 +5,25 @@
 ### Important Links
 
  - [RARS](https://github.com/TheThirdOne/rars)
- - [Syllabus]()
+ - [Syllabus](./Resources/alod+syllabus+20240408_linyu.pdf)
+
+## Hw 1 Combination and Permutation
+
+ - [Problem](./Hw1/Hw1.pdf)
+ - [Code](./Hw1/Hw1.asm)
+
+ ## Hw 2 Nameology of the Five Elements
+
+ - [Problem](./Hw2/Hw2.pdf)
+ - [Code](./Hw2/Hw2.asm)
+
+ ## Hw 3 Steiner trees
+
+ - [Problem](./Hw3/Hw3.pdf)
+ - [Code](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+ - [Testcase Explain](./Hw3/HW3_UPDATE.docx)
+ - [Testcase Input](./Hw3/testcase1/1.txt)
+ - [Testcase Output](./Hw3/testcase1/testcase1.jpg)
 
  - ## Some Github Commands
 
