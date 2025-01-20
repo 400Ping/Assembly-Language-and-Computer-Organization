@@ -25,7 +25,7 @@
  - [Testcase Input](./Hw3/testcase1/1.txt)
  - [Testcase Output](./Hw3/testcase1/testcase1.jpg)
 
- - ## Some Github Commands
+## Some Github Commands
 
 * Remember to save and git add, git commit before doing further operations
 
