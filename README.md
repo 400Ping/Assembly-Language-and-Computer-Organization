@@ -20,7 +20,6 @@
  ## Hw 3 Steiner trees
 
  - [Problem](./Hw3/Hw3.pdf)
- - [Code](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
  - [Testcase Explain](./Hw3/HW3_UPDATE.docx)
  - [Testcase Input](./Hw3/testcase1/1.txt)
  - [Testcase Output](./Hw3/testcase1/testcase1.jpg)
